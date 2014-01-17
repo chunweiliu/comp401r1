@@ -1,9 +1,5 @@
 #Recitation 1
 
-##January 17, 2014
-
----
-
 ###Why do we use IDEs?
 * Syntax highlighting
 * Organization for large projects (file browser)
